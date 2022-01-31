@@ -1,0 +1,13 @@
+body {background-color: #41b3a3;}
+img {
+border-radius: 15px 50px 30px 5px; display: block;  
+margin-left: auto;  
+margin-right: auto;}
+.about {padding: 35px; border: 100px solid beige; border-width: thick;border-radius: 15px 50px 30px 5px; background-color: #e8a87c}
+.start {background-color: rgb(#C38D9E); box-sizing: border-box; width: 18%; float: left; padding-right: 10px;border-radius: 15px 50px 30px 5px }
+.middle {padding: 20px; background-color: lightcoral; width: 65%;border-radius: 15px 50px 30px 5px}
+ul {list-style-position: inside;}
+.end {background-color: whitesmoke; width: 50%;border-radius: 15px 50px 30px 5px; text-align: left; padding-bottom: 10px;padding-left: 18%}
+p:first-letter{display:block;float:center;margin:3px;color:Black;font-size:150%;}
+
+
